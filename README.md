@@ -62,7 +62,7 @@ UpSet plot is generated from an [online tool](https://vcg.github.io/upset/).
 -----------------------------------
 ### 4. Contact:
 
-:email: Xiaoxu Yang: [u6055394@utah.edu](mailto:u6055394@utah.edu), or the Yang lab [xiaoxuyanglab@gmail.com](mailto:xiaoxuyanglab@gmail.com)
+:email: Xiaoxu Yang: [xiaoxu.yang@genetics.utah.edu](mailto:xiaoxu.yang@genetics.utah.edu), or the Yang lab [xiaoxuyanglab@gmail.com](mailto:xiaoxuyanglab@gmail.com)
 
 :email: Martin Breuss: [martin.breuss@cuanschutz.edu](mailto:martin.breuss@cuanschutz.edu)
 
